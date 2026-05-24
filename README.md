@@ -52,7 +52,7 @@ A segunda implementação utiliza uma abordagem multiplicativa recorrente inspir
 O processamento segue uma estrutura semelhante a:
 
 ```cpp
-hash = (hash * 35) + caractere;
+hash = (hash * 33) + caractere;
 ```
 
 Nesse modelo, o valor anterior do hash participa diretamente do próximo cálculo, fazendo com que cada caractere influencie todas as operações subsequentes do processamento.

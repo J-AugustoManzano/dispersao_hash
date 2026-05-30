@@ -1,5 +1,5 @@
 // ============================================================================
-// PROGRAMA   : colisao2.cpp
+// PROGRAMA   : colisao3.cpp
 // DESCRIÇÃO  : Script de análise empírica e validação estatística.
 //              Mapeia o comportamento da função de hash multiplicativa de 
 //              constante sucessiva (DJB2), demonstrando visualmente a eficácia 
@@ -62,7 +62,7 @@ int main(void) {
   }
 
   cout << "==================================================" << endl;
-  cout << "RESULTADO DO TESTE DE COLISAO - VERSAO 2.0" << endl;
+  cout << "RESULTADO DO TESTE DE COLISAO - VERSAO 3.0" << endl;
   cout << "==================================================" << endl;
   cout << "Total de strings testadas (tamanho 4): " << totalStringsTestadas << endl;
 
